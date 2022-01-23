@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EoTkPsAQrJcSHWfv0eVrFARTotfnr72uSoUbwIJOSR1BQbk48/bqBNULq75KfUunE/hmA6zYJ4tuopDobTxTTg==",
+  "success": true,
+  "projectFilePath": "/home/leona/Projetos/VBNotes-cli/VBNotes-cli.vbproj",
+  "expectedPackageFiles": [
+    "/home/leona/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.0/microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
